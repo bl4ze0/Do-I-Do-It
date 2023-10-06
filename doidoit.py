@@ -1,8 +1,8 @@
 import random
 
 print("Welcome to Do I Do It")
-print("This is a code that chooses if you do it or not!")
-print("By: AgueroCn\n")
+print("This is a fun choice maker don't take it too seriously!")
+print("By: Bl4ze0 or previsously AgueroCn\n")
 
 choicemaker = ["Do it", "Don't Do It", "Definitly not", "Why not"]
 choices = ["q", "s", "S", "Q"]
